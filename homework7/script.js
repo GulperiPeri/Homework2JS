@@ -11,6 +11,6 @@ const blogPost = {
   postAuthor: "Gulperi Dj",
   publishedDate: "26.05.2022",
   postBody: "Where the world builds software",
-  postImg: "https://github.com/"
-  tags: ["title", "body", "footer"]
+  postImg: "https://github.com/",
+  postTags: ["Article", "Gulperi", "world"],
 };

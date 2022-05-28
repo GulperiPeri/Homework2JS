@@ -5,3 +5,4 @@ let imgLink = [
   "https://100zaitsev.ru/wp-content/uploads/sobol-kunica-rosomaha-kartinki-foto-video5.jpg",
   "https://fotovmire.ru/wp-content/uploads/2020/01/28707/akvalangist-i-rybki-u-rifa.jpg",
 ];
+console.log(imgLink);
